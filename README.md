@@ -29,7 +29,7 @@ O Clean Drain é um tipo de bueiro inteligente, criado com o propósito de ser i
 ![Imagem Arduino Montado](/Hardware.png)
 ### Código do arduino comentado
     Deve se alterar o SSID e a senha da rede como o projeto está no seu começo de desenvolvimento
-![](/CleanDrain.ino)
+[Link para Código Arduino](/CleanDrain.ino)
 
 
 
