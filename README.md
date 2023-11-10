@@ -35,8 +35,15 @@ O Clean Drain é um tipo de bueiro inteligente, criado com o propósito de ser i
 1. Clone este repositório.
 2. Abra o arquivo [CleanDrain.ino](/CleanDrain.ino) na Arduino IDE.
 3. Instale as bibliotecas necessárias usando o Gerenciador de Bibliotecas da Arduino IDE.
-4. Configure o SSID e senha da rede no código conforme necessário.
+4. Configure o SSID e senha da rede, e o ID do seu dispostivo
 5. Carregue o código para o Esp32.
+## Configurações
+
+No arquivo [CleanDrain.ino](/CleanDrain.ino), você pode configurar o seguinte:
+
+- SSID e senha da rede WiFi.
+- ID do dispositivo
+
 
 
 
