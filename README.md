@@ -4,6 +4,10 @@
 - [O projeto](#o-projeto)
 - [Arquitetura do projeto](#arquitetura-do-projeto)
 - [Dispositivos](#dispositivos)
+-[Exemplos do projeto](#Imagem-exemplificando-o-projeto-montado)
+-[](#)
+-[](#)
+
 ## O projeto
 O Clean Drain é um tipo de bueiro inteligente, criado com o propósito de ser instalado onde a água de chuva e o lixo da rua escoam. Ele mede a quantidade de lixo em kg e o volume no bueiro. Com a ajuda do FIWARE, estamos implementando IoT para enviar as medidas coletadas dos sensores para o nosso site de monitoramento.
 
