@@ -44,6 +44,12 @@ No arquivo [CleanDrain.ino](/CleanDrain.ino), você pode configurar o seguinte:
 - SSID e senha da rede WiFi.
 - ID do dispositivo
 
+## Melhorias Futuras
+
+1. Estamos trabalhando para integrar a aba de monitoramento em nosso website
+2. Futuramente pretendemos desenvolver um app mobile para notificar os valores no dispositivo
+3. Após as outras funcionalidades estarem completas iremos começar o plano de monetizar vendendo dispositivos CleanDrain
+4. Em caso de lucro, começaremos com o plano de um sistema de assinatura para que o lixo seja recolhido por nossos Colaboradores
 
 
 
